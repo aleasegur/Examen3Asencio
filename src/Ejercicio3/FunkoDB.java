@@ -24,6 +24,7 @@ public class FunkoDB {
         }catch (SQLException e){
             System.err.println(e.getMessage());
         }
+
     }
 
 }
